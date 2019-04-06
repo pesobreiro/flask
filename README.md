@@ -1,7 +1,5 @@
 # Introduction to flask
 
-# Desenvolvimento de sites em flask
-
 https://www.reddit.com/r/flask/comments/8zg0rn/flask_apppy_and_dash/
 
 https://github.com/mbkupfer/dash-with-flask
