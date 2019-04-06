@@ -74,6 +74,7 @@ flask run
 
 ## Utilização
 ### Estrutura
+```
 .
 ├── app/
 │   ├── __init__.py
@@ -90,5 +91,5 @@ flask run
 │   └── ...
 ├── .envrc
 └── requirements.txt
-
+```
 A pasta app contem tudo relacionado com a aplicacao em flask
