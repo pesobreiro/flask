@@ -1,5 +1,4 @@
-# flask
-Introduction to flask
+# Introduction to flask
 
 # Desenvolvimento de sites em flask
 
