@@ -91,3 +91,4 @@ flask run
 └── requirements.txt
 ```
 A pasta app contem tudo relacionado com a aplicacao em flask
+
