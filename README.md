@@ -6,6 +6,8 @@ https://github.com/mbkupfer/dash-with-flask
 
 Exemplo em c:\dropbox\dev\dashFlask
 
+Uma lista de recursos para flask: https://github.com/humiaozuzu/awesome-flask
+
 # Flask
 
 Para instalar:
